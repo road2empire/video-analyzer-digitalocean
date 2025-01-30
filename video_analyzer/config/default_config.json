@@ -6,8 +6,8 @@
             "model": "llama3.2-vision"
         },
         "openai_api": {
-            "api_key": "",
-            "model": "meta-llama/llama-3.2-11b-vision-instruct",
+            "api_key": "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",
+            "model": "anthropic/claude-3.5-sonnet:beta",
             "api_url": "https://openrouter.ai/api/v1"
         }
     },
